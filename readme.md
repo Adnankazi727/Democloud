@@ -1,2 +1,0 @@
-third
-hello for Git
